@@ -29,10 +29,13 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN TOOL:
-Figma
-
-## OUTPUT:
-
+![OUTPUT](./out21.jpg)
+![OUTPUT](./out22.jpg)
+![OUTPUT](./out23.jpg)
+![OUTPUT](./out24.jpg)
+![OUTPUT](./out25.jpg)
+![OUTPUT](./out26.jpg)
+![OUTPUT](./out27.jpg)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
